@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://patzeul.github.io/patzeul/sitemap.txt
